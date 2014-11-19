@@ -1,0 +1,8 @@
+##########################
+          HELP                
+##########################
+
+UpArrow - Move Up
+DownArray - Move Down
+LeftArrow - Move Left
+RightArrow - Move Right
